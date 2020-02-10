@@ -1,2 +1,6 @@
-build_test
-build_xcode_test
+build
+CMakeFiles
+.cmake
+conanbuildinfo.*
+conaninfo.txt
+graph_info.json
